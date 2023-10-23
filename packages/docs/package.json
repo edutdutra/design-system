@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@edutdutra-ignite/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +10,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@edutdutra-ignite/eslint-config": "*",
+    "@edutdutra-ignite/react": "*",
+    "@edutdutra-ignite/tokens": "*",
     "@storybook/addon-a11y": "^7.4.6",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
